@@ -1,90 +1,98 @@
-<!-- ANTIGRAVITY ENGINE WORKSPACE INTERFACE -->
+<!-- ANTIGRAVITY ORCHESTRATION ENGINE V2.0 -->
 <div align="center">
   
-  <!-- Floating Tech Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F1016&height=220&section=header&text=SPACE%20CODE%20:%20ARCHITECT&fontSize=42&fontColor=A855F7&animation=twinkling&theme=dark" width="100%" alt="Antigravity Header" />
+  <!-- Glowing Interactive Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B0F19&height=250&section=header&text=%E2%96%B2%20ANTIGRAVITY%20:%20CORE&fontSize=46&fontColor=C084FC&animation=twinkling&theme=dark" width="100%" alt="System Header" />
 
-  <h1>🌌 HAMZA IMRAN</h1>
-  <p><b>TECH ARCHITECT • SOLO DEVELOPER • AI & DEFENSIVE SECURITY EXPERT</b></p>
+  <br />
+  <h1>🚀 HAMZA IMRAN</h1>
+  <h3><b>TECH ARCHITECT & SOLO DEVELOPER | AI AGENTIC SYSTEMS & DEFENSIVE SECURE RUNTIMES</b></h3>
 
-  <!-- Real-Time Micro-Badges -->
+  <!-- Ecosystem Verified Tokens -->
   <p>
-    <img src="https://img.shields.io/badge/Ecosystem-NVIDIA%20Dev-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA" />
-    <img src="https://img.shields.io/badge/Ecosystem-AMD%20ROCm-ED1C24?style=flat-square&logo=amd&logoColor=white" alt="AMD" />
-    <img src="https://img.shields.io/badge/Ecosystem-Google%20Dev-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" />
-    <img src="https://img.shields.io/badge/SecOps-Zero%20Trust-000000?style=flat-square&logo=linux&logoColor=61DAFB" alt="Zero-Trust" />
+    <img src="https://img.shields.io/badge/NVIDIA_Developer-Program_Member-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
+    <img src="https://img.shields.io/badge/AMD_ROCm-Hardware_Accelerated-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD" />
+    <img src="https://img.shields.io/badge/Google_Cloud-Enterprise_Agent_Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
   </p>
 
-  <p align="left">
-    Operating at the volatile intersection of autonomous multi-agent intelligence and kernel-level defense. I specialize in orchestrating stateful, cyclic AI swarms via <b>LangGraph</b>, hardening cloud runtimes, and engineering pristine full-stack product interfaces with elite graphic design paradigms.
-  </p>
+  <br />
+
+  <table border="0" cellpadding="20" cellspacing="0" width="100%">
+    <tr>
+      <td align="left" valign="top" style="border: none; line-height: 1.6;">
+        I bridge the critical gap between advanced multi-agent autonomy and bulletproof system defense. Utilizing modern <b>"vibe coding"</b> paradigms to rapidly prototype intricate system logical layers, I enforce rigorous production discipline through <b>Zero-Trust architectures</b> and kernel-level validation guardrails. My domain background allows me to uniquely translate raw logical data models into elite, secure software runtimes.
+      </td>
+    </tr>
+  </table>
 </div>
 
-### 🔮 System Telemetry & Tooling
+---
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🤖 Core Swarm Orchestration</h4>
+### 🔮 System Telemetry & Execution Matrix
+
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="33%" valign="top" style="border: none; padding: 10px;">
+      <h4>🧠 Swarm Routing Layer</h4>
       <ul>
-        <li>LangGraph / Multi-Agent Frameworks</li>
-        <li>Vertex AI / Prompt Engineering</li>
-        <li>Stateful Routing & LLM Runtimes</li>
-        <li><b>Domain AI:</b> Medical AI & BioTech Workflows</li>
+        <li><b>LangGraph Orchestration:</b> Stateful, cyclic multi-agent graph architectures.</li>
+        <li><b>Cognitive Guardrails:</b> Vertex AI context conditioning & advanced prompt design.</li>
+        <li><b>Cross-Domain Engine:</b> Medical AI & biological computing logic modeling.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
-      <h4>🛡️ Defensive Security & Ops</h4>
+    <td width="33%" valign="top" style="border: none; padding: 10px;">
+      <h4>🛡️ Kernel & Cloud Defense</h4>
       <ul>
-        <li>Zero-Trust AI Guardrails</li>
-        <li>AST Vulnerability Patching</li>
-        <li>Google Cloud Security & Hardening</li>
-        <li><b>Soft Stack:</b> Technical Communication & Global Collaboration</li>
+        <li><b>Zero-Trust AI:</b> Real-time ingestion sanitization & prompt-injection blocks.</li>
+        <li><b>Auto-Remediation:</b> Static analysis parsing for automated AST hot-patching.</li>
+        <li><b>Cloud Architecture:</b> Hardened microservices on secure Google Cloud Run.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
-      <h4>💻 Product Engineering</h4>
+    <td width="33%" valign="top" style="border: none; padding: 10px;">
+      <h4>🎨 Product Surface Layer</h4>
       <ul>
-        <li>Python / C++ Production Engines</li>
-        <li>Flutter / Firebase Mobile Ecosystems</li>
-        <li>Monolithic & Microservices (PHP / Full-Stack)</li>
-        <li>Level 3 Certified Graphic UI Layouts</li>
+        <li><b>Core Languages:</b> Optimized C++ production blocks & clean Python pipelines.</li>
+        <li><b>Mobile Delivery:</b> Asynchronous cross-platform development via Flutter + Firebase.</li>
+        <li><b>Visual Engineering:</b> Elite UI/UX layouts backed by Level 3 Graphic Design.</li>
       </ul>
     </td>
   </tr>
 </table>
 
-### 🚀 Pinned High-Velocity Projects
+---
 
-#### 🪐 [ChainReflex-OS](https://github.com/yourusername/ChainReflex-OS)
-> Advanced multi-agent swarm architecture engineered using **LangGraph** and deeply optimized for local execution on bare-metal **AMD ROCm** hardware arrays.
+### 🪐 Production Registries (Pinned Architectures)
 
-#### 🛡️ [Aegis-Omni](https://github.com/yourusername/Aegis-Omni)
-> Enterprise-grade real-time crisis intelligence grid backed by high-throughput full-stack infrastructure and strict validation defenses.
+*   **🛡️ [Aegis-Omni](https://github.com/yourusername/Aegis-Omni)**  
+    An enterprise crisis intelligence grid orchestrating decentralized edge-telemetry into a secure, real-time reactive pipeline.  
+    `Tech: Flutter | Firebase | Multi-Agent Security Filters`
 
-#### ⚡ [Theek Karo AI](https://github.com/yourusername/Theek-Karo-AI)
-> An automated, containerized code remediation workflow deployed on **Google Cloud Run** to ingest codebases, map vulnerabilities, and apply secure patches.
+*   **🤖 [ChainReflex-OS](https://github.com/yourusername/ChainReflex-OS)**  
+    A high-throughput multi-agent execution swarm using LangGraph, structurally mapped to run locally on bare-metal AMD ROCm hardware arrays.  
+    `Tech: Python | LangGraph | AMD ROCm API Compute`
+
+*   **⚡ [Theek Karo AI](https://github.com/yourusername/Theek-Karo-AI)**  
+    An event-driven, containerized codebase remediation node running on Google Cloud Run to analyze, target, and patch architectural vulnerabilities instantly.  
+    `Tech: Google Cloud Run | AST Parsers | Docker`
 
 ---
 
-### 📊 Real-Time Matrix Metrics
+### 📊 Active Node Performance
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=hamza135252&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150" />
+  <table border="0" cellpadding="0" cellspacing="0" style="border: none;">
+    <tr style="border: none;">
+      <td style="border: none; padding: 5px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=hamza135252&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=A855F7&icon_color=C084FC&text_color=9CA3AF" alt="GitHub Stats" height="160" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza135252&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
+      <td style="border: none; padding: 5px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza135252&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=A855F7&text_color=9CA3AF" alt="Top Languages" height="160" />
       </td>
     </tr>
   </table>
 
   <br />
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="Snake Animation Missing" width="100%" />
+  
+  <!-- Dynamic GitHub Status Ticker Bar -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F19&height=35&section=footer&text=SECURE%20CORE%20PROTOCOL%20:%20ONLINE%20%20%20%7C%20%20%20LOC%20:%20AIR%20UNIVERSITY%20KARACHI&fontSize=12&fontColor=9CA3AF" width="100%" alt="Footer Ticker" />
 </div>
-
-<p align="center">
-  <code>Secure Core Protocol: Active</code> | <code>Environment: Air University Karachi</code>
-</p>
