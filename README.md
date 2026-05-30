@@ -124,10 +124,10 @@ credentials: Level 3 Graphic Design Certificate
   <table border="0" cellpadding="0" cellspacing="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=HamzaKhanBUIC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=A855F7&icon_color=C084FC&text_color=9CA3AF" alt="GitHub Stats" height="160" />
+        <img src="https://streak-stats.demolab.com?user=HamzaKhanBUIC&theme=tokyonight&hide_border=true&background=0B0F19" alt="GitHub Streak" height="160" />
       </td>
       <td style="border: none; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaKhanBUIC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=A855F7&text_color=9CA3AF" alt="Top Languages" height="160" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HamzaKhanBUIC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=A855F7&text_color=9CA3AF" alt="Top Languages" height="160" />
       </td>
     </tr>
   </table>
