@@ -6,8 +6,8 @@
 <!-- Single-line typing -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Tech+Architect+%26+Solo+Developer;Agentic+AI+%26+LangGraph+Swarms;Zero-Trust+Cybersecurity+Pipelines;Full-Stack+Engineering+%26+Mobile"
-    alt="Tech Architect & Solo Developer"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%26+Architect;Agentic+AI+%26+LangGraph+Swarms;Zero-Trust+Cybersecurity+Pipelines;Full-Stack+Engineering+%26+BioTech"
+    alt="Cybersecurity Student & Architect"
   />
 </p>
 
@@ -34,19 +34,20 @@
 
 ```yaml
 name: Hamza Imran
+status: Cybersecurity Student & Solo Developer
 focus:
-  - Agentic AI (LangGraph Swarms)
   - Defensive Cybersecurity (Zero-Trust)
-  - Full-Stack Engineering (Flutter, Firebase)
-  - Medical/BioTech AI Workflows
-currently: Architecting autonomous orchestration engines
+  - Agentic AI (LangGraph, Llama-3-70B)
+  - Full-Stack Engineering (Flutter, TypeScript, Python, C++)
+  - Medical/BioTech Data Pipelines
+currently: Architecting autonomous orchestration engines and crisis swarms
 collaborate_on: Multi-agent swarms and defensive engineering pipelines
 credentials: Level 3 Graphic Design Certificate
 ```
 
 | | |
 |:---:|:---|
-| 👋 **Hello** | I'm **Hamza Imran** — I bridge the gap between advanced multi-agent autonomy and bulletproof system defense using modern vibe coding paradigms. |
+| 👋 **Hello** | I'm **Hamza Imran** — A Cybersecurity Student bridging the gap between advanced multi-agent autonomy and bulletproof system defense. |
 | 🎯 **Mission** | Build zero-trust architectures and kernel-level validation guardrails that translate raw logical data models into elite, secure software runtimes. |
 | 🤝 **Open to** | Collaborations on Agentic Workflows, MedTech AI, and high-performance computing. |
 | 📍 **Location** | Air University, Karachi |
@@ -56,28 +57,29 @@ credentials: Level 3 Graphic Design Certificate
 ## `> core_architecture`
 
 <details open>
-<summary><b>🤖 Swarm Orchestration</b></summary>
+<summary><b>🤖 Swarm Orchestration & AI</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Stateful_Architectures-8A2BE2?style=for-the-badge)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-Cognition-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-Llama--3-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google-Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-- **Agentic Workflows:** LangGraph stateful architectures.
-- **Domain AI:** Medical Sciences & BioTech data modeling.
-- **Cognition:** Vertex AI & Advanced Prompt Engineering.
+- **Agentic Workflows:** LangGraph stateful architectures and Cognee integrations.
+- **Domain AI:** Medical Sciences, BioTech data modeling, and Speechmatics synthesis.
+- **Cognition:** Llama-3-70B, Google Antigravity, and Advanced Prompt Engineering.
 </details>
 
 <details open>
 <summary><b>🛡️ Defense & Cloud</b></summary>
 <br/>
 
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Student-FF3366?style=for-the-badge&logo=shield&logoColor=white)
 ![Google Cloud Run](https://img.shields.io/badge/Google_Cloud_Run-Microservices-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AMD ROCm](https://img.shields.io/badge/AMD_ROCm-Compute_Optimization-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![Zero Trust](https://img.shields.io/badge/Zero_Trust-Pipelines-FF3366?style=for-the-badge&logo=shield&logoColor=white)
 
-- **Security:** Zero-Trust pipelines & Auto-Remediation.
-- **Infrastructure:** Google Cloud Run Microservices.
+- **Security:** Zero-Trust pipelines, Auto-Remediation, and infrastructure scaling.
+- **Cloud Architecture:** Google Cloud Run Microservices (Server Survival).
 - **Hardware:** AMD ROCm local compute optimization.
 </details>
 
@@ -86,30 +88,33 @@ credentials: Level 3 Graphic Design Certificate
 <br/>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-- **Mobile:** Flutter & Firebase cross-platform apps.
-- **Core Engines:** C++ (Procedural) & PHP backends.
-- **Operations:** High-level technical communication & Level 3 UI/UX Design.
+- **Mobile:** Flutter & Firebase cross-platform apps (Dart).
+- **Core Engines:** C++ (Procedural Bioinformatics), Python, and TypeScript backends.
+- **Operations:** High-level technical communication & Level 3 UI/UX Design (CSS/HTML).
 </details>
 
 ---
 
 ## `> production_builds`
 
-*   **🛡️ [Aegis-Omni](https://github.com/HamzaKhanBUIC/Aegis-AI-The-Omni_Crisis-Intelligence-Swarm)**  
-    An enterprise crisis intelligence grid processing decentralized edge-telemetry into a secure reactive pipeline. *(Flutter \| Firebase \| Zero-Trust)*
+*   **🛡️ [Aegis-Omni Crisis Intelligence](https://github.com/HamzaKhanBUIC/Aegis-AI-The-Omni_Crisis-Intelligence-Swarm)**  
+    Sovereign multi-agent AI crisis orchestration swarm for high-entropy urban environments. Powered by Google Antigravity, LangGraph, and Llama-3-70B. *(Dart \| Python)*
+
+*   **🧬 [Procedural Genomic Parser](https://github.com/HamzaKhanBUIC/Procedural-Genomic-Sequence-Parser)**  
+    High-performance, procedural C++ parser built to process massive genomic sequences, calculate nucleotide compositions, and find genetic markers. *(C++)*
 
 *   **🤖 [ChainReflex-OS](https://github.com/HamzaKhanBUIC/ChainReflex-OS)**  
-    A high-throughput multi-agent execution swarm built with LangGraph, mapped to run on local AMD ROCm hardware. *(Python \| LangGraph \| AMD)*
+    A high-throughput multi-agent execution swarm built with LangGraph, mapped to run on local AMD ROCm hardware. *(TypeScript \| Python)*
 
 *   **⚡ [Theek Karo AI](https://github.com/HamzaKhanBUIC/TheekKaro.ai)**  
-    An event-driven codebase remediation node running on Google Cloud Run to analyze and patch architectural vulnerabilities. *(Cloud Run \| AST Parsing)*
+    AI-powered civic complaint system for Pakistan. An event-driven codebase remediation node running on Google Cloud Run. *(Python \| Cloud Run)*
 
-*   **🌍 [Agri-Predict AI](https://github.com/hamza135252/Agri-Predict-AI)**  
-    Predictive modeling platform built to secure regional supply chains and environmental stability layers. *(Data Telemetry \| AI Innovation)*
+*   **👁️ [OmniSight Radar](https://github.com/HamzaKhanBUIC/OmniSight-Autonomous-Corporate-Strategy-Disruption-Radar)**  
+    Autonomous Corporate Strategy & Disruption Radar. Synthesizes live web data and audio transcripts into dynamic executive dashboards. *(Bright Data \| Speechmatics)*
 
 ---
 
@@ -128,5 +133,5 @@ credentials: Level 3 Graphic Design Certificate
   </table>
 
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F19&height=35&section=footer&text=SECURE%20CORE%20PROTOCOL%20:%20ONLINE%20%20%20%7C%20%20%20ARCHITECT%20:%20HAMZA%20IMRAN&fontSize=12&fontColor=00FFCC" width="100%" alt="Footer Ticker" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F19&height=35&section=footer&text=SECURE%20CORE%20PROTOCOL%20:%20ONLINE%20%20%20%7C%20%20%20CYBERSECURITY%20ARCHITECT%20:%20HAMZA%20IMRAN&fontSize=12&fontColor=00FFCC" width="100%" alt="Footer Ticker" />
 </div>
