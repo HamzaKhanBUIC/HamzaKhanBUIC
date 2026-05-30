@@ -1,135 +1,119 @@
 <div align="center">
-  
-  <!-- Dynamic Space Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B0F19&height=220&section=header&text=%E2%96%B2%20HAMZA%20IMRAN&fontSize=50&fontColor=C084FC&animation=twinkling&theme=dark" width="100%" alt="System Header" />
 
-  <h2><b>TECH ARCHITECT & SOLO DEVELOPER | INNOVATION & AUTONOMOUS AI</b></h2>
+<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050A,50:C084FC,100:00FFCC&height=180&section=header&text=Hamza%20Imran&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" alt="System Header" />
 
-  <!-- Official Developer Programs -->
-  <p>
-    <img src="https://img.shields.io/badge/NVIDIA_Developer-Program_Member-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
-    <img src="https://img.shields.io/badge/AMD_ROCm-Hardware_Accelerated-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD" />
-    <img src="https://img.shields.io/badge/Google_Cloud-Enterprise_Agent-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-    <img src="https://img.shields.io/badge/GitHub_Developer-Program_Member-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </p>
+<!-- Single-line typing -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Tech+Architect+%26+Solo+Developer;Agentic+AI+%26+LangGraph+Swarms;Zero-Trust+Cybersecurity+Pipelines;Full-Stack+Engineering+%26+Mobile"
+    alt="Tech Architect & Solo Developer"
+  />
+</p>
 
-  <p align="left" style="font-size: 16px; line-height: 1.6;">
-    I operate at the convergence of <b>Agentic AI</b> and <b>Defensive Cybersecurity</b>. By leveraging modern vibe coding methodologies, I rapidly prototype complex multi-agent swarms and secure them with kernel-level validation pipelines. My engineering foundation uniquely bridges advanced software architectures with <b>Medical Science workflows</b>, allowing me to build robust, domain-specific AI solutions backed by elite, Level 3 certified UI/UX design.
-  </p>
+<p align="center">
+  <b>Mapping autonomous logic swarms to hardened secure runtimes</b><br/>
+  <i>Antigravity Protocol Activated 🚀</i>
+</p>
+
+<br/>
+
+<!-- Official Developer Programs -->
+<p>
+  <img src="https://img.shields.io/badge/NVIDIA_Developer-Program_Member-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
+  <img src="https://img.shields.io/badge/AMD_ROCm-Hardware_Accelerated-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD" />
+  <img src="https://img.shields.io/badge/Google_Cloud-Enterprise_Agent-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/GitHub_Developer-Program_Member-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
 </div>
 
 ---
 
-### 🗺️ Core Architecture: The Antigravity Framework
+## `> whoami`
 
-The foundational logic mapping for my autonomous deployments. Every production build leverages this stateful, Zero-Trust lifecycle.
-
-```text
-       [ EXTERNAL INGESTION PAYLOAD ]
-                    │
-                    ▼
-     ╔════════════════════════════════╗
-     ║     ZERO-TRUST API GATEWAY     ║
-     ║  (Input Sanitization & Auth)   ║
-     ╚══════════════╦═════════════════╝
-                    │ Validated Stream
-                    ▼
- ┌────────────────────────────────────────┐
- │        COGNITIVE ROUTING SWARM         │
- │                                        │
- │   ┌──────────────┐      ┌───────────┐  │
- │   │  State Graph ├─────►│ Analytics │  │
- │   │  Coordinator │◄─────┤   Node    │  │
- │   └──────┬───────┘      └───────────┘  │
- │          │                             │
- │   ┌──────▼───────┐      ┌───────────┐  │
- │   │   Defense    ├─────►│ Execution │  │
- │   │  Guardrails  │◄─────┤   Agent   │  │
- │   └──────────────┘      └───────────┘  │
- └──────────────────┬─────────────────────┘
-                    │ Compiled AST / Logic
-                    ▼
-     ╔════════════════════════════════╗
-     ║   SECURE EXECUTION RUNTIME     ║
-     ║ (Dockerized / Cloud Run Layer) ║
-     ╚══════════════╦═════════════════╝
-                    │
-                    ▼
-         [ FINAL SECURE OUTPUT ]
+```yaml
+name: Hamza Imran
+focus:
+  - Agentic AI (LangGraph Swarms)
+  - Defensive Cybersecurity (Zero-Trust)
+  - Full-Stack Engineering (Flutter, Firebase)
+  - Medical/BioTech AI Workflows
+currently: Architecting autonomous orchestration engines
+collaborate_on: Multi-agent swarms and defensive engineering pipelines
+credentials: Level 3 Graphic Design Certificate
 ```
 
----
-
-### 🔮 Architecture & Execution Matrix
-
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="33%" valign="top" style="border: none; padding: 10px;">
-      <h4>🤖 Swarm Orchestration</h4>
-      <ul>
-        <li><b>Agentic Workflows:</b> LangGraph stateful architectures.</li>
-        <li><b>Domain AI:</b> Medical Sciences & BioTech data modeling.</li>
-        <li><b>Cognition:</b> Vertex AI & Advanced Prompt Engineering.</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top" style="border: none; padding: 10px;">
-      <h4>🛡️ Defense & Cloud</h4>
-      <ul>
-        <li><b>Security:</b> Zero-Trust pipelines & Auto-Remediation.</li>
-        <li><b>Infrastructure:</b> Google Cloud Run Microservices.</li>
-        <li><b>Hardware:</b> AMD ROCm local compute optimization.</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top" style="border: none; padding: 10px;">
-      <h4>💻 Full-Stack Product</h4>
-      <ul>
-        <li><b>Mobile:</b> Flutter & Firebase cross-platform apps.</li>
-        <li><b>Core Engines:</b> C++ (Procedural) & PHP backends.</li>
-        <li><b>Operations:</b> High-level technical communication.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| | |
+|:---:|:---|
+| 👋 **Hello** | I'm **Hamza Imran** — I bridge the gap between advanced multi-agent autonomy and bulletproof system defense using modern vibe coding paradigms. |
+| 🎯 **Mission** | Build zero-trust architectures and kernel-level validation guardrails that translate raw logical data models into elite, secure software runtimes. |
+| 🤝 **Open to** | Collaborations on Agentic Workflows, MedTech AI, and high-performance computing. |
+| 📍 **Location** | Air University, Karachi |
 
 ---
 
-### 🪐 Production Builds & Case Studies
+## `> core_architecture`
+
+<details open>
+<summary><b>🤖 Swarm Orchestration</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Stateful_Architectures-8A2BE2?style=for-the-badge)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-Cognition-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+- **Agentic Workflows:** LangGraph stateful architectures.
+- **Domain AI:** Medical Sciences & BioTech data modeling.
+- **Cognition:** Vertex AI & Advanced Prompt Engineering.
+</details>
+
+<details open>
+<summary><b>🛡️ Defense & Cloud</b></summary>
+<br/>
+
+![Google Cloud Run](https://img.shields.io/badge/Google_Cloud_Run-Microservices-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AMD ROCm](https://img.shields.io/badge/AMD_ROCm-Compute_Optimization-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-Pipelines-FF3366?style=for-the-badge&logo=shield&logoColor=white)
+
+- **Security:** Zero-Trust pipelines & Auto-Remediation.
+- **Infrastructure:** Google Cloud Run Microservices.
+- **Hardware:** AMD ROCm local compute optimization.
+</details>
+
+<details open>
+<summary><b>💻 Full-Stack Product</b></summary>
+<br/>
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+- **Mobile:** Flutter & Firebase cross-platform apps.
+- **Core Engines:** C++ (Procedural) & PHP backends.
+- **Operations:** High-level technical communication & Level 3 UI/UX Design.
+</details>
+
+---
+
+## `> production_builds`
 
 *   **🛡️ [Aegis-Omni](https://github.com/hamza135252/Aegis-Omni)**  
-    An enterprise crisis intelligence grid processing decentralized edge-telemetry into a secure reactive pipeline. *(Flutter | Firebase | Zero-Trust)*
+    An enterprise crisis intelligence grid processing decentralized edge-telemetry into a secure reactive pipeline. *(Flutter \| Firebase \| Zero-Trust)*
 
 *   **🤖 [ChainReflex-OS](https://github.com/hamza135252/ChainReflex-OS)**  
-    A high-throughput multi-agent execution swarm built with LangGraph, mapped to run on local AMD ROCm hardware. *(Python | LangGraph | AMD)*
+    A high-throughput multi-agent execution swarm built with LangGraph, mapped to run on local AMD ROCm hardware. *(Python \| LangGraph \| AMD)*
 
 *   **⚡ [Theek Karo AI](https://github.com/hamza135252/Theek-Karo-AI)**  
-    An event-driven codebase remediation node running on Google Cloud Run to analyze and patch architectural vulnerabilities. *(Cloud Run | AST Parsing)*
+    An event-driven codebase remediation node running on Google Cloud Run to analyze and patch architectural vulnerabilities. *(Cloud Run \| AST Parsing)*
 
 *   **🌍 [Agri-Predict AI](https://github.com/hamza135252/Agri-Predict-AI)**  
-    Predictive modeling platform built to secure regional supply chains and environmental stability layers. *(Data Telemetry | AI Innovation)*
+    Predictive modeling platform built to secure regional supply chains and environmental stability layers. *(Data Telemetry \| AI Innovation)*
 
 ---
 
-### ⚡ Operational Verification & Telemetry
-
-My systems are strictly audited against production guardrails. Recent performance metrics across the swarm:
-
-```log
-[SYSTEM TRACE] - 2026-05-28T09:47:00Z
-=====================================================
-[OK] Core Graph Initialization ............ 12ms
-[OK] Zero-Trust Gateway Mount ............. 8ms
-[OK] AMD ROCm Hardware Handshake .......... 45ms
-[OK] Agentic Reasoning Cycle .............. 112ms
------------------------------------------------------
-RUNTIME STATUS: FAULT-TOLERANT
-SECURITY POSTURE: ZERO-TRUST KERNEL ENABLED
-AVG API RESPONSE LATENCY: 240ms
-=====================================================
-```
-
----
-
-### 📊 Real-Time Node Analytics
+## `> system_telemetry`
 
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0" style="border: none;">
@@ -144,5 +128,5 @@ AVG API RESPONSE LATENCY: 240ms
   </table>
 
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F19&height=35&section=footer&text=LOC%20:%20AIR%20UNIVERSITY%20KARACHI%20%20%20%7C%20%20%20SECURE%20CONNECTION%20ESTABLISHED&fontSize=12&fontColor=9CA3AF" width="100%" alt="Footer Ticker" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F19&height=35&section=footer&text=SECURE%20CORE%20PROTOCOL%20:%20ONLINE%20%20%20%7C%20%20%20ARCHITECT%20:%20HAMZA%20IMRAN&fontSize=12&fontColor=00FFCC" width="100%" alt="Footer Ticker" />
 </div>
