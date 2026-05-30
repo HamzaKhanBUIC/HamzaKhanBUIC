@@ -99,13 +99,13 @@ credentials: Level 3 Graphic Design Certificate
 
 ## `> production_builds`
 
-*   **🛡️ [Aegis-Omni](https://github.com/hamza135252/Aegis-Omni)**  
+*   **🛡️ [Aegis-Omni](https://github.com/HamzaKhanBUIC/Aegis-AI-The-Omni_Crisis-Intelligence-Swarm)**  
     An enterprise crisis intelligence grid processing decentralized edge-telemetry into a secure reactive pipeline. *(Flutter \| Firebase \| Zero-Trust)*
 
-*   **🤖 [ChainReflex-OS](https://github.com/hamza135252/ChainReflex-OS)**  
+*   **🤖 [ChainReflex-OS](https://github.com/HamzaKhanBUIC/ChainReflex-OS)**  
     A high-throughput multi-agent execution swarm built with LangGraph, mapped to run on local AMD ROCm hardware. *(Python \| LangGraph \| AMD)*
 
-*   **⚡ [Theek Karo AI](https://github.com/hamza135252/Theek-Karo-AI)**  
+*   **⚡ [Theek Karo AI](https://github.com/HamzaKhanBUIC/TheekKaro.ai)**  
     An event-driven codebase remediation node running on Google Cloud Run to analyze and patch architectural vulnerabilities. *(Cloud Run \| AST Parsing)*
 
 *   **🌍 [Agri-Predict AI](https://github.com/hamza135252/Agri-Predict-AI)**  
@@ -119,10 +119,10 @@ credentials: Level 3 Graphic Design Certificate
   <table border="0" cellpadding="0" cellspacing="0" style="border: none;">
     <tr style="border: none;">
       <td style="border: none; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=hamza135252&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=A855F7&icon_color=C084FC&text_color=9CA3AF" alt="GitHub Stats" height="160" />
+        <img src="https://github-readme-stats.vercel.app/api?username=HamzaKhanBUIC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=A855F7&icon_color=C084FC&text_color=9CA3AF" alt="GitHub Stats" height="160" />
       </td>
       <td style="border: none; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza135252&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=A855F7&text_color=9CA3AF" alt="Top Languages" height="160" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaKhanBUIC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=A855F7&text_color=9CA3AF" alt="Top Languages" height="160" />
       </td>
     </tr>
   </table>
