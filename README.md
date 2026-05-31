@@ -10,7 +10,7 @@
 
 <p align="center">
   <b>Mapping autonomous logic swarms to hardened secure runtimes.</b><br/>
-  <i>Antigravity Protocol Activated 🚀</i>
+  <i></i>
 </p>
 
 <!-- Social & Connection Funnel (Crucial for getting followers) -->
