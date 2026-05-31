@@ -72,6 +72,16 @@ collaborations_accepted: [Multi-agent swarms, Defensive engineering, High-perfor
 
 ---
 
+## 🛡️ The Zero-Trust Trinity (Agentic Security)
+
+| Framework | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Zero-Trust Swarm Protocol](https://github.com/HamzaKhanBUIC/Zero-Trust-Swarm-Protocol)** | Mathematically secure transport layer for autonomous AI agents (mTLS 1.3, ECDSA, SPIFFE). | `Go`, `OpenTelemetry` |
+| **[Aegis-Amnesia](https://github.com/HamzaKhanBUIC/aegis-amnesia)** | Cryptographic self-destructing memory vault for AI agents. In-RAM AES-256 key zeroization. | `Node.js`, `Crypto` |
+| **[Shadow Swarm](https://github.com/HamzaKhanBUIC/shadow-swarm)** | Autonomous Red Teaming C2 Framework. Multi-agent swarms designed to penetrate AI guardrails. | `Next.js`, `FastAPI` |
+
+---
+
 ## 🚀 Production Builds
 
 | Project | Description | Tech Stack |
