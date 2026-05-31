@@ -15,7 +15,6 @@
 
 <!-- Social & Connection Funnel (Crucial for getting followers) -->
 <p align="center">
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/HamzaKhanBUIC?tab=followers"><img src="https://img.shields.io/github/followers/HamzaKhanBUIC?style=for-the-badge&color=00FFCC&logo=github&label=Followers" alt="GitHub Followers" /></a>
 </p>
@@ -91,11 +90,6 @@ collaborations_accepted: [Multi-agent swarms, Defensive engineering, High-perfor
 | **[Theek Karo AI](https://github.com/HamzaKhanBUIC/TheekKaro.ai)** | AI-powered civic complaint system. Event-driven codebase remediation on Google Cloud Run. | `Python`, `Cloud Run` |
 | **[Procedural Genomic Parser](https://github.com/HamzaKhanBUIC/Procedural-Genomic-Sequence-Parser)** | High-performance C++ parser to process massive genomic sequences and find genetic markers. | `C++` |
 | **[OmniSight Radar](https://github.com/HamzaKhanBUIC/OmniSight-Autonomous-Corporate-Strategy-Disruption-Radar)** | Autonomous Corporate Strategy & Disruption Radar synthesizing live web data and audio. | `Bright Data`, `Speechmatics` |
-| **[Server Survival](https://github.com/HamzaKhanBUIC/server-survival)** | Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. | `TypeScript`, `Game Dev` |
-| **[Health Data Dashboard](https://github.com/HamzaKhanBUIC/Building-a-Health-Data-Dashboard)** | A lightweight, responsive frontend dashboard designed to visualize medical and genomic datasets. | `HTML`, `CSS`, `JS` |
-| **[Aegis QA Core](https://github.com/HamzaKhanBUIC/Aegis-QA)** | Quality assurance and testing environment tooling for the Aegis swarm infrastructure. | `Python` |
-| **[University Tech Society](https://github.com/HamzaKhanBUIC/University-Tech-Society---Student-Organization-Website)** | Frontend Web infrastructure designed for the university student technical society. | `Web` |
-| **[Collaborative Web Node](https://github.com/HamzaKhanBUIC/Collaborative-Web-Project)** | Distributed collaborative web platform prototype for shared interactions. | `Web` |
 
 ---
 
