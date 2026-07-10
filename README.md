@@ -30,7 +30,7 @@
 
 ---
 
-## ⚡ System Diagnostics & Identity
+##  System Diagnostics & Identity
 
 ```yaml
 system_name: Hamza Imran
@@ -46,22 +46,22 @@ collaborations_accepted: [Multi-agent swarms, Defensive engineering, High-perfor
 
 ---
 
-## 🛠️ Core Architecture & Arsenal
+##  Core Architecture & Arsenal
 
 <div align="center">
 
-### 🤖 Swarm Orchestration & AI
+###  Swarm Orchestration & AI
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/LangGraph-Stateful_Architectures-8A2BE2?style=for-the-badge" alt="LangGraph" />
 <img src="https://img.shields.io/badge/Hugging_Face-Llama--3-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
 <img src="https://img.shields.io/badge/Google-Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
 
-### 🛡️ Defense, Cloud & Compute
+###  Defense, Cloud & Compute
 <img src="https://img.shields.io/badge/Cybersecurity-Zero_Trust-FF3366?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity" />
 <img src="https://img.shields.io/badge/Google_Cloud-Serverless-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Run" />
 <img src="https://img.shields.io/badge/AMD_ROCm-Compute_Optimization-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD ROCm" />
 
-### 💻 Full-Stack Engines
+###  Full-Stack Engines
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -71,7 +71,7 @@ collaborations_accepted: [Multi-agent swarms, Defensive engineering, High-perfor
 
 ---
 
-## 🛡️ The Zero-Trust Trinity (Agentic Security)
+##  The Zero-Trust Trinity (Agentic Security)
 
 | Framework | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -81,7 +81,7 @@ collaborations_accepted: [Multi-agent swarms, Defensive engineering, High-perfor
 
 ---
 
-## 🚀 Production Builds
+##  Production Builds
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -93,7 +93,7 @@ collaborations_accepted: [Multi-agent swarms, Defensive engineering, High-perfor
 
 ---
 
-## 📊 System Telemetry
+##  System Telemetry
 
 <div align="center">
 
