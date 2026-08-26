@@ -32,7 +32,7 @@ I study Cyber Security at Air University in Karachi and build software across se
 
 ## Core Projects by Domain
 
-### 🤖 Agentic AI & Swarm Systems
+### Agentic AI & Swarm Systems
 
 | Project | What it does | Stack | Link |
 | :--- | :--- | :--- | :--- |
@@ -42,7 +42,7 @@ I study Cyber Security at Air University in Karachi and build software across se
 
 ---
 
-### 🌐 Full-Stack & Cloud Platforms
+### Full-Stack & Cloud Platforms
 
 | Project | What it does | Stack | Link |
 | :--- | :--- | :--- | :--- |
@@ -53,7 +53,7 @@ I study Cyber Security at Air University in Karachi and build software across se
 
 ---
 
-### 🛡️ Cybersecurity & Defensive Tools
+### Cybersecurity & Defensive Tools
 
 | Project | What it does | Stack | Link |
 | :--- | :--- | :--- | :--- |
@@ -64,7 +64,7 @@ I study Cyber Security at Air University in Karachi and build software across se
 
 ---
 
-### ⚡ Systems & High-Performance Computing
+### Systems & High-Performance Computing
 
 | Project | What it does | Stack | Link |
 | :--- | :--- | :--- | :--- |
