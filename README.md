@@ -15,13 +15,6 @@
   <a href="https://github.com/HamzaKhanBUIC?tab=followers"><img src="https://img.shields.io/github/followers/HamzaKhanBUIC?style=for-the-badge&color=00FFCC&logo=github&label=Followers" alt="GitHub Followers" /></a>
 </p>
 
-<!-- Developer Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/NVIDIA_Developer-Program_Member-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
-  <img src="https://img.shields.io/badge/AMD_ROCm-Hardware_Accelerated-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD" />
-  <img src="https://img.shields.io/badge/Google_Cloud-Serverless_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-</p>
-
 </div>
 
 ---
