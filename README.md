@@ -125,6 +125,4 @@ I study Cyber Security at Air University in Karachi and build software across se
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HamzaKhanBUIC/HamzaKhanBUIC/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 
-  <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F19&height=35&section=footer&text=HAMZA%20IMRAN%20:%20AI%20SYSTEMS%20%26%20CYBERSECURITY%20ENGINEER&fontSize=12&fontColor=00FFCC" width="100%" alt="Footer Ticker" />
 </div>
