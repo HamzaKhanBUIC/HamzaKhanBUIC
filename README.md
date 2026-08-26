@@ -1,126 +1,107 @@
-<div align="center">
+# Hamza Imran
 
-<!-- Animated Cyberpunk Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050A,50:A855F7,100:00FFCC&height=180&section=header&text=Hamza%20Imran&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" alt="System Header" />
-
-<!-- Single-line typing -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Solo+Developer+%26+Tech+Architect;Agentic+AI+%26+LangGraph+Swarms;Zero-Trust+Cybersecurity+Pipelines;Building+Defensive+AI+Guardrails" alt="Cybersecurity Student & Architect" />
+<p align="left">
+  <a href="https://hamza-premium-portfolio-2026.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-hamza--portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/hamza-imran-17569b383/"><img src="https://img.shields.io/badge/LinkedIn-hamza--imran-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hamza135252@gmail.com"><img src="https://img.shields.io/badge/Email-hamza135252@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/HamzaKhanBUIC"><img src="https://img.shields.io/badge/GitHub-HamzaKhanBUIC-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<p align="center">
-  <b>Mapping autonomous logic swarms to hardened secure runtimes.</b><br/>
-  <i></i>
-</p>
-
-<!-- Social & Connection Funnel (Crucial for getting followers) -->
-<p align="center">
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/HamzaKhanBUIC?tab=followers"><img src="https://img.shields.io/github/followers/HamzaKhanBUIC?style=for-the-badge&color=00FFCC&logo=github&label=Followers" alt="GitHub Followers" /></a>
-</p>
-
-<!-- Official Developer Programs -->
-<p align="center">
-  <img src="https://img.shields.io/badge/NVIDIA_Developer-Program_Member-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
-  <img src="https://img.shields.io/badge/AMD_ROCm-Hardware_Accelerated-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD" />
-  <img src="https://img.shields.io/badge/Google_Cloud-Enterprise_Agent-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-</p>
-
-</div>
-
----
-
-##  System Diagnostics & Identity
-
-```yaml
-system_name: Hamza Imran
-role: Cybersecurity Student & Solo Developer
-location: Air University, Karachi
-focus_nodes:
-  - Agentic AI (LangGraph, Llama-3-70B)
-  - Defensive Cybersecurity (Zero-Trust)
-  - Medical/BioTech Data Pipelines
-current_directive: "Architecting autonomous orchestration engines and crisis swarms"
-collaborations_accepted: [Multi-agent swarms, Defensive engineering, High-performance computing]
+```text
+╭──────────────────────────────────────────────────────────────────────────────╮
+│  HAMZA IMRAN // CYBERSECURITY & AI SYSTEMS                                   │
+├──────────────────────────────────────────────────────────────────────────────┤
+│  • IDENTITY   : Cybersecurity Undergrad @ Air University Karachi, Pakistan   │
+│  • CORE FOCUS : Zero-Trust Inter-Agent Protocols & Ephemeral Memory Bounds   │
+│  • RUNTIMES   : Go (mTLS 1.3), Python (LangGraph), AMD ROCm & Cloud Run      │
+│  • PHILOSOPHY : Zero Implicit Trust. Reproducible Code. Memory Safety.       │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-##  Core Architecture & Arsenal
+### What I Do
 
-<div align="center">
+I study Cyber Security at Air University in Karachi and build software for **autonomous multi-agent systems** and **defensive security**.
 
-###  Swarm Orchestration & AI
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/LangGraph-Stateful_Architectures-8A2BE2?style=for-the-badge" alt="LangGraph" />
-<img src="https://img.shields.io/badge/Hugging_Face-Llama--3-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/Google-Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
-
-###  Defense, Cloud & Compute
-<img src="https://img.shields.io/badge/Cybersecurity-Zero_Trust-FF3366?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity" />
-<img src="https://img.shields.io/badge/Google_Cloud-Serverless-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Run" />
-<img src="https://img.shields.io/badge/AMD_ROCm-Compute_Optimization-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD ROCm" />
-
-###  Full-Stack Engines
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-
-</div>
+Most multi-agent frameworks today assume everyone on the network is friendly. They pass raw prompts over open HTTP connections and leave API keys unencrypted in RAM. I build tools that fix those weak points—using mutual TLS 1.3, in-memory cryptographic zeroization, and deterministic guardrails so agent swarms coordinate safely.
 
 ---
 
-##  The Zero-Trust Trinity (Agentic Security)
+### System Architecture: The Zero-Trust Multi-Agent Mesh
 
-| Framework | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Zero-Trust Swarm Protocol](https://github.com/HamzaKhanBUIC/Zero-Trust-Swarm-Protocol)** | Mathematically secure transport layer for autonomous AI agents (mTLS 1.3, ECDSA, SPIFFE). | `Go`, `OpenTelemetry` |
-| **[Aegis-Amnesia](https://github.com/HamzaKhanBUIC/aegis-amnesia)** | Cryptographic self-destructing memory vault for AI agents. In-RAM AES-256 key zeroization. | `Node.js`, `Crypto` |
-| **[Shadow Swarm](https://github.com/HamzaKhanBUIC/shadow-swarm)** | Autonomous Red Teaming C2 Framework. Multi-agent swarms designed to penetrate AI guardrails. | `Next.js`, `FastAPI` |
+```mermaid
+graph LR
+    subgraph Agentic Orchestration Layer
+        A[Aegis-AI Crisis Swarm - LangGraph] <-->|mTLS 1.3 / SPIFFE| B[Zero-Trust Swarm Protocol - Go]
+        C[ChainReflex-OS Execution Swarm] <-->|mTLS 1.3 / SPIFFE| B
+    end
+
+    subgraph Defensive Security & Memory Bounds
+        B <--> D[Aegis-Amnesia In-RAM Vault]
+        B --> E[Shadow-Swarm Red Team C2]
+        B --> F[LifecycleZero DB Guardrail]
+    end
+
+    subgraph Compute & Cloud Runtime
+        C --> G[Local AMD ROCm Acceleration]
+        A --> H[Google Cloud Run Serverless]
+        I[TheekKaro.ai Civic Platform] --> H
+    end
+```
 
 ---
 
-##  Production Builds
+### Tech Stack & Tools
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Aegis-Omni Crisis Intelligence](https://github.com/HamzaKhanBUIC/Aegis-AI-The-Omni_Crisis-Intelligence-Swarm)** | Sovereign multi-agent AI crisis orchestration swarm for high-entropy urban environments. | `Python`, `LangGraph`, `Llama-3-70B`, `Dart` |
-| **[ChainReflex-OS](https://github.com/HamzaKhanBUIC/ChainReflex-OS)** | A high-throughput multi-agent execution swarm mapped to local AMD ROCm hardware. | `TypeScript`, `Python`, `LangGraph` |
-| **[Theek Karo AI](https://github.com/HamzaKhanBUIC/TheekKaro.ai)** | AI-powered civic complaint system. Event-driven codebase remediation on Google Cloud Run. | `Python`, `Cloud Run` |
-| **[Procedural Genomic Parser](https://github.com/HamzaKhanBUIC/Procedural-Genomic-Sequence-Parser)** | High-performance C++ parser to process massive genomic sequences and find genetic markers. | `C++` |
-| **[OmniSight Radar](https://github.com/HamzaKhanBUIC/OmniSight-Autonomous-Corporate-Strategy-Disruption-Radar)** | Autonomous Corporate Strategy & Disruption Radar synthesizing live web data and audio. | `Bright Data`, `Speechmatics` |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,py,ts,cpp,dart,docker,gcp,aws,linux,flutter,nextjs,fastapi,postgres,git&theme=dark" alt="Tech Stack" />
+</p>
 
 ---
 
-##  System Telemetry
+### Core Projects
 
-<div align="center">
+| Project | What it does | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **[Zero-Trust Swarm Protocol](https://github.com/HamzaKhanBUIC/Zero-Trust-Swarm-Protocol)** | Hardened mTLS 1.3 transport layer for AI agents with SPIFFE workload attestation and OpenTelemetry tracing. | `Go`, `mTLS 1.3`, `SPIFFE`, `Docker` | [Repository](https://github.com/HamzaKhanBUIC/Zero-Trust-Swarm-Protocol) |
+| **[Aegis-AI Crisis Swarm](https://github.com/HamzaKhanBUIC/Aegis-AI-The-Omni_Crisis-Intelligence-Swarm)** | Decentralized multi-agent swarm that triages disaster reports, calculates safe routes, and syncs with responders offline. | `Python`, `LangGraph`, `Llama-3-70B`, `Flutter` | [Repository](https://github.com/HamzaKhanBUIC/Aegis-AI-The-Omni_Crisis-Intelligence-Swarm) |
+| **[ChainReflex-OS](https://github.com/HamzaKhanBUIC/ChainReflex-OS)** | Multi-agent execution runtime mapping parallel LLM reasoning graphs directly to local AMD ROCm GPU compute. | `TypeScript`, `Python`, `AMD ROCm`, `Docker` | [Repository](https://github.com/HamzaKhanBUIC/ChainReflex-OS) |
+| **[TheekKaro.ai](https://github.com/HamzaKhanBUIC/TheekKaro.ai)** | AI-powered civic complaint router for municipal hazards, running serverless on Google Cloud Run. | `Python`, `Google Cloud Run`, `Docker` | [Repository](https://github.com/HamzaKhanBUIC/TheekKaro.ai) • [Live App](https://theekkaro-engine-900492834451.us-central1.run.app/) |
+| **[doc-intel-platform](https://github.com/HamzaKhanBUIC/doc-intel-platform)** | Financial document intelligence platform with deterministic schema validation and multi-way ERP reconciliation. | `JavaScript`, `Node.js`, `FastAPI`, `OCR` | [Repository](https://github.com/HamzaKhanBUIC/doc-intel-platform) |
+| **[VeriVoice](https://github.com/HamzaKhanBUIC/Veri-Voice-Unesco-Hackathon)** | Voice biometrics and synthetic media defense platform built for the UNESCO Hackathon to catch acoustic deepfakes. | `Next.js 14`, `FastAPI`, `Python` | [Repository](https://github.com/HamzaKhanBUIC/Veri-Voice-Unesco-Hackathon) • [Live Demo](https://verivoice-unesco.vercel.app/) |
 
-  <table border="0" cellpadding="0" cellspacing="0" style="border: none;">
-    <tr style="border: none;">
-      <td style="border: none; padding: 5px;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HamzaKhanBUIC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00FFCC&icon_color=A855F7&text_color=9CA3AF" alt="GitHub Stats" height="195" />
-      </td>
-      <td style="border: none; padding: 5px;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HamzaKhanBUIC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00FFCC&text_color=9CA3AF" alt="Top Languages" height="195" />
-      </td>
-    </tr>
-  </table>
-  
-  <br />
-  
-  <img src="https://streak-stats.demolab.com?user=HamzaKhanBUIC&theme=tokyonight&hide_border=true&background=0B0F19&ring=00FFCC&fire=A855F7&currStreakLabel=00FFCC" alt="GitHub Streak" width="80%" />
+---
 
-  <br /><br />
-  
-  <!-- Contribution Snake Animation (Automatically generated by GitHub Actions) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamzaKhanBUIC/HamzaKhanBUIC/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HamzaKhanBUIC/HamzaKhanBUIC/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HamzaKhanBUIC/HamzaKhanBUIC/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+<details>
+<summary><b>🔬 Click to inspect: Systems & Security Deep Dives</b></summary>
+<br/>
 
-  <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F19&height=35&section=footer&text=SECURE%20CORE%20PROTOCOL%20:%20ONLINE%20%20%20%7C%20%20%20CYBERSECURITY%20ARCHITECT%20:%20HAMZA%20IMRAN&fontSize=12&fontColor=00FFCC" width="100%" alt="Footer Ticker" />
-</div>
+- **[Aegis-Amnesia](https://github.com/HamzaKhanBUIC/aegis-amnesia)**: Cryptographic in-RAM memory vault for AI agents. Encrypts context fragments with AES-256-GCM and explicitly overwrites key buffers with random entropy when tasks finish so secrets can't be scraped from memory dumps.
+- **[Shadow-Swarm](https://github.com/HamzaKhanBUIC/shadow-swarm)**: Automated red-teaming C2 framework that stress-tests LLM guardrails against multi-turn jailbreaks and prompt injection.
+- **[Procedural Genomic Sequence Parser](https://github.com/HamzaKhanBUIC/Procedural-Genomic-Sequence-Parser)**: Pure procedural C++ parser for multi-gigabyte DNA datasets. $O(N)$ linear-time base counting with zero dynamic heap allocations during iteration loops.
+- **[LifecycleZero](https://github.com/HamzaKhanBUIC/LifecycleZero-Database-Level-Local-AI-Governance-Threat-Isolation)**: Database-layer guardrail that intercepts LLM SQL mutations and contains prompt-injection escalation at the query boundary.
+
+</details>
+
+---
+
+### Activity & Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HamzaKhanBUIC&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaKhanBUIC&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages" height="165" />
+</p>
+
+---
+
+### Engineering Principles
+
+1. **Evidence over claims**: If a repo doesn't have reproducible code or a working demo, it doesn't belong in my showcase.
+2. **Zero implicit trust**: Every agent, API call, and memory buffer should be authenticated, scoped, and verifiable.
+3. **Keep it simple**: Clean procedural code and minimal dependencies beat heavy abstractions when performance and security matter.
+
+---
+
+> [!NOTE]
+> Open to research collaborations and engineering discussions in **Zero-Trust Multi-Agent Architectures**, **AI Safety Guardrails**, and **Hardware-Accelerated Agent Runtimes**. Reach out via [email](mailto:hamza135252@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hamza-imran-17569b383/).
