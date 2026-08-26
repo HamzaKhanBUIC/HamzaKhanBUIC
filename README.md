@@ -119,10 +119,6 @@ I study Cyber Security at Air University in Karachi and build software across se
   <br />
   
   <!-- Contribution Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamzaKhanBUIC/HamzaKhanBUIC/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HamzaKhanBUIC/HamzaKhanBUIC/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HamzaKhanBUIC/HamzaKhanBUIC/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-
+  <img src="https://raw.githubusercontent.com/HamzaKhanBUIC/HamzaKhanBUIC/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/HamzaKhanBUIC/HamzaKhanBUIC/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution Snake" width="100%" />
 </div>
