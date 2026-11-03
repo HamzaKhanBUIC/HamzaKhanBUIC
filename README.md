@@ -1,161 +1,52 @@
-<div align="center">
+<a href="https://hamzakhanbuic.github.io/hamza-portfolio/"><img src="assets/hero.png" width="100%" alt="Hamza Imran. Cyber Security student at Air University, Karachi. I build AI agents and voice apps, and I put the decisions that matter in code the model can't override. 2nd place, Speechmatics track, lablab.ai Web Data UNLOCKED 2026. Top 10, USAII Global AI Hackathon 2026, 9th of 424 teams in qualifiers."></a>
 
-<!-- Cyberpunk Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050A,50:A855F7,100:00FFCC&height=180&section=header&text=Hamza%20Imran&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" alt="Header" />
+[Portfolio](https://hamzakhanbuic.github.io/hamza-portfolio/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/hamza-imran-17569b383/) &nbsp;·&nbsp; [Email](mailto:hamza135252@gmail.com)
 
-<p align="center">
-  <b>Cyber Security student @ Air University, Karachi · AI agents, security tools, full-stack prototypes</b>
-</p>
+I study cyber security at Air University in Karachi. Most of what I know about building software comes from hackathons and two internships. When a model's output decides something in one of my projects, a check in code has the final say: a rules engine, a person's approval or a certificate the model can't fake.
 
-<!-- Social & Connection Funnel -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/hamza-imran-17569b383/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hamza135252@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/HamzaKhanBUIC?tab=followers"><img src="https://img.shields.io/github/followers/HamzaKhanBUIC?style=for-the-badge&color=00FFCC&logo=github&label=Followers" alt="GitHub Followers" /></a>
-</p>
+### Selected work
 
-```text
-                                          .=**##**+#%@@%+.                                          
-                                       .-*##*****#**+==++*:.                                        
-                                     .=%%#%%%#++##*++=++=*#:                                        
-                                     .#@@%####*##***+==+==+.                                        
-                                     ..:++=====+#%%#**++++-.                                        
-                                       .*+#%#*+-:-++*++=++-.                                        
-                                        :-=++=-:::---++=*+.                                         
-                                        :-=+-==-::::-:-++-                                          
-                                        .++=====-::---:=-.                                          
-                                        .=*++====----::-.                                           
-                                         -=+++++++++=::::.                                          
-                                         .-++-+#*====::::::.                                        
-                                             .=*++=-:::-===-                                        
-                                          .---+=::::-====+*+=:.                                     
-                                        .:####+=**-:=*#**##**++*+-..                                
-                                     .-#%%%%#=+++--*#####*********++=-.                             
-                                     :%%%%%%=*+#--*###############*++++=.                           
-                                     #%%%%%#*#=+=#%%%%%###%%%%%#%#*+=+++=                           
-                                    .%%%%%%++++#%%%%%%%%%%%%%%%%%#*+**##+.                          
-                                    .%%%%%#=+**%%%%%%%%%%%%%%%@@@%*+=++*#-                          
-                                    .%%%%%#+***%%%@%%%%@@%%%%@@%%%%%*====:                          
-                                    :@%%@@*+==%%%@@@@@@@@@%@%@@%##*##*++#:                          
-                                    =@%%@@%++#%%@@%@@%%%%%%%%@@@%**##**+=.                          
-                                    +@%@%@@#*%%@@%%%%%%@%%@@@@@@@%*++*##+-                          
-                                    -@%%@@@@%@@@@%%%%%%@@%@@@@@@#%%%++++*+.                         
-                                    -@@@@@@@@@@@@@@@@@@@@@@@@@@@#*%@#+++++.                         
-                                    -@@@@@@@@@@@@@@@@@@@@@@@@@@@%**%@#++*+.                         
-                                    =@@@@@@@@@@@@@@@@@@@@@@@@@@@%*+*#%%++=                          
-                                    -@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*++*%#+-                          
-                                    :@@@%*%@@@@@@@%%%%%%%@@@@@@@@%##*++**=                          
-                                   .#@@@@@@@@@@@%%%%%%%@@@@@@@@@@@@%*+***+                          
-                                   :@@@@@@@@@@@@%%%%@@@@@@@@@@@@**%@@*++*+                          
-                                   -@@@@@@@@@@@@@@%%@%%%%@@@@@@@@#==+*#+=-                          
-                                   -@@@@@@@@@@@@@@@%%%%%%@@@@@@@@@#+**##*-                          
-                                  .#@@@%%%@@@@@@@@@@@@@%%@@@@@@@@@%*===+=.                          
-                                  *@@@%%#%@@@@@@%%%%%%%%@@@@@@@%%##**++=.                           
-                                  *@@@@%%#%%@@@@@@@%%%%%%%@@@@@@%%*****-                            
-                                 .%@@@@@%%##%%@@@@@@@@@@%%@@@@@@@%**##+.                            
-                                 =@@@@@@@%%####%@@@%%%%%%@@@@@@@@%*+*#=.                            
-                                .%@@@@@@@@@%#####%%%%%%%@@@@%%@@@%*##*.                             
-                               .*@@@@@@@@@@@%#**####%%%%%%%@%@@@@@*++-                              
-                              .%@@@@@@@@@@@@@@@%%#*******%@@%##%%@%*+-                              
-                              :@@@@@@@@@@@@@@@@@@@@%%#**%%%*##%@%#+==.                              
-                              .*@@@@@@@@@@@@@@@@@@@@@@**@#*###%%#**@:                               
-                               :@@@@@@@@@@@@@@@@@@@@@@@%@%#%%@@@@#@@:                               
-                               :%@@@@@@@@@@@@@@@@@@@@@@@@@#*%@@@##@@-                               
-                               =@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@@#*@@@=                               
-```
+<a href="https://github.com/HamzaKhanBUIC/codexfoundry"><img src="assets/card-codexfoundry.png" width="100%" alt="codexfoundry. Built solo for OpenAI Build Week, July 2026, 79 tests. Runs OpenAI's Codex agent inside a loop it can't skip: a person approves the plan, Codex works in a throwaway git worktree, and a separate verifier confirms the fix before anything is written back."></a>
 
-</div>
+<a href="https://github.com/HamzaKhanBUIC/BISP-Benefits-Navigator"><img src="assets/card-bisp.png" width="100%" alt="BISP Benefits Navigator. Built solo, Top 10 finalist at the USAII Global AI Hackathon 2026. Applicants describe their household in Urdu and hear an eligibility estimate. Gemini extracts the facts and a rules engine makes the call."></a>
 
----
+<a href="https://github.com/HamzaKhanBUIC/OmniSight-Autonomous-Corporate-Strategy-Disruption-Radar"><img src="assets/card-omnisight.png" width="100%" alt="OmniSight. 2nd place, Speechmatics track, lablab.ai Web Data UNLOCKED, May 2026. Turns a company name and an optional audio clip into a competitor battlecard using Bright Data, Speechmatics and an LLM."></a>
 
-## About
+<a href="https://github.com/HamzaKhanBUIC/Zero-Trust-Swarm-Protocol"><img src="assets/card-zerotrust.png" width="100%" alt="Zero-Trust Swarm Protocol. Built solo in Go. AI agents get one-hour certificates with SPIFFE-style IDs, and every mutual TLS 1.3 connection is checked against the ID in the peer's certificate."></a>
 
-I study Cyber Security at Air University, Karachi (2026–2029). I build AI agents, security tools and full-stack prototypes, mostly at hackathons, and I write down what each one does and does not do yet.
+### More projects
 
-- **Machine Learning Engineering Intern**, FlyRank (Jun–Sep 2026, remote)
-- **Community Manager Intern**, lablab.ai (since Aug 2026, remote)
+| Project | What it is | Where it came from |
+| :-- | :-- | :-- |
+| [VeriVoice](https://github.com/HamzaKhanBUIC/Veri-Voice-Unesco-Hackathon) | Fact-checks health and climate rumours sent as voice notes and answers aloud in four languages, as a web app and a Discord bot. 195 tests. | UNESCO Youth Hackathon 2026. I led a team of six. |
+| [LifecycleZero](https://github.com/HamzaKhanBUIC/LifecycleZero-Database-Level-Local-AI-Governance-Threat-Isolation) | Console that flags risky local AI processes from signed endpoint telemetry and isolates a host in one DynamoDB transaction. [Live](https://lifecycle-zero.vercel.app) | H0: Hack the Zero Stack (Vercel v0 and AWS Databases) |
+| [OmniFlow AI](https://github.com/HamzaKhanBUIC/omniflow-ai) | Venue-operations agent that pulls context through MCP from MongoDB, Elasticsearch and GitLab and asks Gemini for a reroute plan. | Google Cloud Rapid Agent Hackathon |
+| [FlyRank capstone](https://github.com/HamzaKhanBUIC/flyrank-ml-internship) | Ranks 30,000 URLs by content decay. Random Forest: 0.70 Precision@50 against 0.40 for the hand-written rule on unseen clients. [Paper](https://hamzakhanbuic.github.io/flyrank-ml-internship/) | ML internship at FlyRank AI |
+| [Aegis-QA](https://github.com/HamzaKhanBUIC/Aegis-QA) | Drafts a PyTest suite and a security review for pasted Python code with IBM Granite on watsonx.ai. | IBM Bob Hackathon, May 2026 |
+| [The Last Signal](https://github.com/HamzaKhanBUIC/Last-Signal) | Browser survival-horror game with an enemy that hunts you by sight and sound using A* pathfinding. [Play](https://hamzakhanbuic.github.io/Last-Signal/) | Personal project |
+| [Local-first LLM agent](https://github.com/HamzaKhanBUIC/amd-developer-hackathon-track1) | Batch agent that runs a 4-bit Qwen 2.5 3B on 2 CPUs and 4 GB of RAM, and calls a hosted model only when an answer fails its check. | AMD Developer Hackathon 2026, team entry |
+| [Asal ya Nakli](https://github.com/HamzaKhanBUIC/asal-ya-nakli) | Checks medicine names against sample DRAP and WHO lists in the browser. [Live](https://asal-ya-nakli.web.app/) | GDG Live Pakistan, Chai & Code. Built in 120 minutes. |
 
-## Awards
+### Awards
 
-| Result | Event | Project |
-| :--- | :--- | :--- |
-| 🥈 2nd place, Speechmatics track | lablab.ai Web Data UNLOCKED (2,310 participants) | [OmniSight](https://github.com/HamzaKhanBUIC/OmniSight-Autonomous-Corporate-Strategy-Disruption-Radar) |
-| Top 10 finalist (solo), #9 of 424 teams in qualifiers | USAII Global AI Hackathon 2026 | [BISP Benefits Navigator](https://github.com/HamzaKhanBUIC/BISP-Benefits-Navigator) |
-| Silver tier | AI Seekho Google Antigravity Hackathon 2026 | |
+<img src="assets/awards.png" width="100%" alt="2nd, Speechmatics partner track, lablab.ai Web Data UNLOCKED, May 2026, with OmniSight, 2,310 participants. Top 10, undergraduate track, USAII Global AI Hackathon, June 2026, with BISP Benefits Navigator, 96/100 in qualifiers and 66.5/70 in the final. Silver tier, AI Seekho Google Antigravity Hackathon 2026, run with Google for Developers.">
 
----
+### Experience
 
-## Projects
+**Community Manager Intern, lablab.ai** (Aug 2026 to now). I moderate the Discord during hackathons, help teams while they build and write the weekly AI recap and the success-stories series.
 
-### AI agents
+**ML Engineering Intern, FlyRank AI** (Jun to Sep 2026). I found that a random train/test split let the model memorize clients, so I split by client instead. The ranked refresh queue shipped with a reason code for every page.
 
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[Codex Foundry](https://github.com/HamzaKhanBUIC/codexfoundry)** | Local developer tool that puts AI coding behind human plan approval, an isolated git worktree and an independent verifier. Solo build, OpenAI Build Week. [Demo video](https://youtu.be/5rJSPOZIT-Y) | `TypeScript`, `React` |
-| **[OmniSight](https://github.com/HamzaKhanBUIC/OmniSight-Autonomous-Corporate-Strategy-Disruption-Radar)** | Competitor-research dashboard combining Bright Data search, Speechmatics transcripts and an LLM into one battlecard. | `Python`, `Bright Data`, `Speechmatics` |
-| **[Aegis-AI](https://github.com/HamzaKhanBUIC/Aegis-AI-The-Omni_Crisis-Intelligence-Swarm)** | LangGraph multi-agent backend that triages urban-crisis reports and picks a dispatch, with Flutter clients on Firebase. | `Python`, `LangGraph`, `FastAPI`, `Flutter` |
-| **[BISP Benefits Navigator](https://github.com/HamzaKhanBUIC/BISP-Benefits-Navigator)** | Voice-first pre-screener for Pakistan's BISP programme with Urdu speech input and a mock eligibility estimate. | `Next.js`, `Gemini`, `Deepgram`, `ElevenLabs` |
-| **[VeriVoice](https://github.com/HamzaKhanBUIC/Veri-Voice-Unesco-Hackathon)** | Voice-first fact-checking assistant (speech → retrieval → LLM → cited answer → speech) with a Discord bot and 195 automated tests. Team project, UNESCO hackathon. | `Node.js`, `React`, `Groq`, `ElevenLabs` |
+**BS Cyber Security, Air University, Karachi** (2026 to 2029). Blue Team member at the AU Cybersecurity Society.
 
-### Security
+### Open source
 
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[Zero-Trust Swarm Protocol](https://github.com/HamzaKhanBUIC/Zero-Trust-Swarm-Protocol)** | Mutual-TLS 1.3 messaging between AI agents with short-lived certificates and SPIFFE-style IDs bound to each peer. | `Go`, `mTLS`, `SPIFFE` |
-| **[LifecycleZero](https://github.com/HamzaKhanBUIC/LifecycleZero-Database-Level-Local-AI-Governance-Threat-Isolation)** | Console that ingests signed endpoint telemetry, flags risky local-AI processes and isolates hosts in one atomic DynamoDB transaction. [Live app](https://lifecycle-zero.vercel.app) | `Next.js`, `DynamoDB`, `AWS` |
-| **[aegis-amnesia](https://github.com/HamzaKhanBUIC/aegis-amnesia)** | In-memory vault: one AES-256-GCM key per secret, zeroed when the TTL expires; token-protected local daemon. | `TypeScript`, `Node.js` |
+- BerriAI/litellm [#47733](https://github.com/BerriAI/litellm/pull/47733): token counting for tool-call blocks in the middle of a conversation (in review)
+- BerriAI/litellm [#47858](https://github.com/BerriAI/litellm/pull/47858): enforce access groups in authorization checks (in review)
+- elizaOS/eliza: 7 bug fixes with regression tests for Discord reactions, attachments and reply ordering. Reviewers approved them, then upstream shipped its own fixes.
 
-### Machine learning and other builds
+### Tools I use
 
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[FlyRank ML internship](https://github.com/HamzaKhanBUIC/flyrank-ml-internship)** | Content-decay ranking on 30,000 URLs from 32 clients: Random Forest Precision@50 0.70 vs a 0.40 baseline on held-out clients. [Paper](https://hamzakhanbuic.github.io/flyrank-ml-internship/) | `Python`, `scikit-learn` |
-| **[Last-Signal](https://github.com/HamzaKhanBUIC/Last-Signal)** | Browser survival-horror game with an A* pathfinding enemy that hunts by sight and sound. [Play](https://hamzakhanbuic.github.io/Last-Signal/) | `JavaScript`, `Canvas`, `Web Audio` |
-| **[doc-intel-platform](https://github.com/HamzaKhanBUIC/doc-intel-platform)** | Rule-based invoice checker: re-checks the arithmetic and fuzzy-matches vendors (no OCR yet). | `Node.js` |
+Python, TypeScript, Go and SQL. LangGraph, the Model Context Protocol, the Gemini API and local models through llama.cpp. Next.js, React, Node.js, FastAPI, DynamoDB and MongoDB. Docker, Google Cloud Run, AWS (SQS, ECS), Vercel and GitHub Actions. For security work: mutual TLS with SPIFFE-style identity, HMAC request signing, the OWASP Top 10 and Semgrep.
 
-Every README lists the project's status and its known limitations.
-
----
-
-## Tech stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/LangGraph-8A2BE2?style=for-the-badge" alt="LangGraph" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-
-</div>
-
----
-
-## GitHub Activity & Telemetry
-
-<div align="center">
-
-  <table border="0" cellpadding="0" cellspacing="0" style="border: none;">
-    <tr style="border: none;">
-      <td style="border: none; padding: 5px;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HamzaKhanBUIC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00FFCC&icon_color=A855F7&text_color=9CA3AF" alt="GitHub Stats" height="185" />
-      </td>
-      <td style="border: none; padding: 5px;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HamzaKhanBUIC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00FFCC&text_color=9CA3AF" alt="Top Languages" height="185" />
-      </td>
-    </tr>
-  </table>
-  
-  <br />
-  
-  <!-- Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/HamzaKhanBUIC/HamzaKhanBUIC/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake" width="100%" />
-  <img src="https://raw.githubusercontent.com/HamzaKhanBUIC/HamzaKhanBUIC/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution Snake" width="100%" />
-</div>
+<a href="https://hamzakhanbuic.github.io/hamza-portfolio/"><img src="assets/footer.png" width="100%" alt="Hamza Imran. hamzakhanbuic.github.io/hamza-portfolio"></a>
